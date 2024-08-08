@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  padding-top: 50px;
+  padding-left: 100px;
+}
+header h1 {
+  color: red;
+}
+header p {
+  color: grey;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+header a {
+  color: grey;
+  padding-left: 10px;
+}
+
+header img {
+  height: 300px;
+  width: 300px;
+  border-radius: 60%;
+  display: inline-block;
+}
+
+main h1 {
+  padding-top: 20px;
+  color: red;
+  padding-left: 100px;
+}
+
+main ol {
+  color: grey;
+  padding-left: 130px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+main ul {
+  color: grey;
+  padding-left: 130px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+footer {
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+  background-color: rgb(199, 0, 0);
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+}
+
+body {
+  background-color: black;
+}/*# sourceMappingURL=style.css.map */
